@@ -1,0 +1,51 @@
+State,District,Farmer_ID,Soil_Type,pH,EC,OC,N,P,K,Moisture,Crop_Suitability
+West Bengal,Darjeeling,F1000,Silty,5.9,0.75,0.53,236,37,149,34,Wheat
+Maharashtra,Nagpur,F1001,Sandy,8.7,0.67,1.16,160,24,171,37,Rice
+Punjab,Ludhiana,F1002,Silty,7.1,1.06,0.88,173,15,114,35,Wheat
+Bihar,Patna,F1003,Sandy,4.7,0.16,1.3,319,21,100,37,Pulses
+Punjab,Amritsar,F1004,Loamy,4.8,0.99,0.81,395,18,93,38,Rice
+West Bengal,Howrah,F1005,Sandy,4.6,1.1,1.17,392,39,133,36,Pulses
+West Bengal,Darjeeling,F1006,Loamy,5.2,1.03,0.84,203,32,125,36,Maize
+Gujarat,Surat,F1007,Peaty,5.0,1.1,1.44,269,26,197,32,Pulses
+Tamil Nadu,Chennai,F1008,Clayey,4.9,0.74,0.53,195,40,114,22,Rice
+Bihar,Patna,F1009,Clayey,5.4,0.38,0.54,327,28,100,16,Wheat
+Maharashtra,Nagpur,F1010,Loamy,5.2,0.42,1.09,150,35,153,17,Rice
+Tamil Nadu,Madurai,F1011,Clayey,4.7,0.44,1.23,161,40,102,19,Sugarcane
+Punjab,Patiala,F1012,Clayey,4.9,0.96,0.99,353,21,160,37,Cotton
+Maharashtra,Nashik,F1013,Sandy,5.0,1.03,1.47,185,14,179,17,Maize
+Maharashtra,Nagpur,F1014,Peaty,9.0,1.38,0.4,288,16,104,35,Sugarcane
+West Bengal,Kolkata,F1015,Loamy,4.7,0.43,1.12,265,30,112,25,Pulses
+Bihar,Muzaffarpur,F1016,Loamy,7.5,0.33,0.85,331,12,185,18,Sugarcane
+Gujarat,Surat,F1017,Clayey,6.3,1.0,0.85,361,20,155,36,Wheat
+West Bengal,Kolkata,F1018,Clayey,4.7,0.21,1.44,363,31,112,24,Cotton
+Bihar,Gaya,F1019,Sandy,6.9,0.76,0.9,375,13,157,24,Sugarcane
+Tamil Nadu,Madurai,F1020,Silty,5.9,1.45,1.4,212,23,160,18,Wheat
+Punjab,Patiala,F1021,Silty,6.4,1.46,1.08,232,17,200,37,Wheat
+Bihar,Patna,F1022,Silty,8.3,1.08,0.62,301,12,82,16,Rice
+Punjab,Ludhiana,F1023,Peaty,8.3,0.85,0.67,249,11,134,17,Pulses
+Tamil Nadu,Madurai,F1024,Silty,5.5,0.32,0.42,267,10,170,40,Pulses
+Bihar,Gaya,F1025,Peaty,5.1,0.16,1.36,322,10,138,22,Cotton
+Gujarat,Surat,F1026,Clayey,6.7,1.22,1.22,245,25,155,19,Rice
+West Bengal,Darjeeling,F1027,Loamy,6.9,0.9,1.24,358,21,170,22,Maize
+Gujarat,Ahmedabad,F1028,Silty,6.1,1.48,1.02,207,18,129,22,Rice
+Tamil Nadu,Coimbatore,F1029,Peaty,4.8,0.43,1.44,363,16,150,38,Cotton
+Tamil Nadu,Madurai,F1030,Peaty,6.9,0.83,1.48,379,22,170,23,Maize
+West Bengal,Howrah,F1031,Peaty,5.9,1.0,0.99,174,38,114,23,Sugarcane
+Gujarat,Surat,F1032,Silty,6.8,1.36,1.1,307,33,95,33,Sugarcane
+Maharashtra,Nashik,F1033,Clayey,8.3,0.41,1.47,224,24,101,33,Wheat
+Maharashtra,Nagpur,F1034,Sandy,8.2,1.28,1.17,288,21,93,20,Sugarcane
+Gujarat,Surat,F1035,Peaty,5.6,0.57,1.32,230,27,145,29,Sugarcane
+Bihar,Gaya,F1036,Loamy,8.6,0.13,0.32,244,10,93,38,Sugarcane
+Maharashtra,Nashik,F1037,Sandy,7.1,1.48,0.32,327,12,94,40,Maize
+West Bengal,Kolkata,F1038,Loamy,5.7,0.44,0.61,242,34,87,34,Pulses
+West Bengal,Darjeeling,F1039,Silty,6.9,0.55,0.63,241,34,166,17,Sugarcane
+West Bengal,Darjeeling,F1040,Clayey,5.4,0.61,0.37,186,31,189,26,Maize
+Punjab,Patiala,F1041,Clayey,5.4,0.69,0.86,348,21,144,27,Maize
+West Bengal,Darjeeling,F1042,Clayey,6.7,0.55,1.11,270,14,130,30,Rice
+Maharashtra,Nashik,F1043,Loamy,5.4,0.78,0.65,175,36,155,33,Rice
+West Bengal,Kolkata,F1044,Sandy,7.9,1.38,0.47,189,14,178,27,Sugarcane
+Punjab,Patiala,F1045,Loamy,4.7,0.74,0.77,267,40,179,40,Cotton
+Gujarat,Ahmedabad,F1046,Sandy,7.9,0.32,1.37,360,23,199,23,Sugarcane
+Punjab,Patiala,F1047,Loamy,5.0,0.81,1.42,333,17,102,40,Cotton
+Bihar,Muzaffarpur,F1048,Silty,5.4,0.26,1.19,294,40,196,32,Maize
+Gujarat,Rajkot,F1049,Silty,6.3,1.05,0.82,343,25,150,27,Sugarcane
