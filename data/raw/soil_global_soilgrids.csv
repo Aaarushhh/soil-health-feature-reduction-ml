@@ -1,0 +1,51 @@
+Country,Region,Sample_ID,Soil_Type,pH,EC,OC,N,P,K,Moisture,Crop_Suitability
+Kenya,Kisumu,S2000,Loamy,5.7,1.19,2.0,193,14,121,14,Rice
+USA,Iowa,S2001,Loamy,7.2,1.89,0.85,370,16,235,13,Cotton
+India,Punjab,S2002,Silty,6.3,1.95,0.96,143,20,186,23,Sugarcane
+China,Henan,S2003,Silty,7.3,1.84,1.63,231,20,248,41,Wheat
+India,Gujarat,S2004,Peaty,4.3,0.24,1.75,343,29,67,30,Wheat
+USA,Texas,S2005,Sandy,6.5,0.74,0.94,165,5,225,28,Rice
+Brazil,Minas Gerais,S2006,Loamy,5.5,0.75,0.93,293,33,218,27,Cotton
+France,Brittany,S2007,Clayey,5.7,1.55,2.0,284,29,241,36,Cotton
+India,Gujarat,S2008,Loamy,7.1,0.56,1.19,154,10,229,44,Maize
+China,Guangdong,S2009,Loamy,6.2,1.91,1.29,319,13,66,29,Rice
+China,Sichuan,S2010,Peaty,6.2,0.57,0.25,349,48,179,26,Barley
+France,Brittany,S2011,Loamy,8.5,1.34,1.69,234,17,86,23,Wheat
+China,Guangdong,S2012,Sandy,4.9,1.54,0.56,199,43,143,31,Barley
+India,Gujarat,S2013,Peaty,6.2,0.56,0.8,208,21,124,40,Maize
+Brazil,São Paulo,S2014,Silty,5.2,0.23,1.63,277,27,114,25,Wheat
+Australia,Queensland,S2015,Peaty,5.7,1.53,0.87,177,31,220,25,Rice
+China,Henan,S2016,Peaty,6.3,1.99,1.05,300,33,62,32,Rice
+India,Punjab,S2017,Peaty,8.1,1.36,0.76,333,24,143,37,Maize
+USA,Texas,S2018,Loamy,5.8,0.74,0.72,119,50,178,31,Soybean
+USA,California,S2019,Peaty,5.6,0.39,1.41,258,40,124,20,Cotton
+Kenya,Kisumu,S2020,Sandy,4.4,0.41,1.23,115,25,154,36,Maize
+India,Punjab,S2021,Clayey,8.4,1.88,1.72,250,5,63,31,Sugarcane
+USA,Iowa,S2022,Clayey,5.7,1.56,1.58,209,47,63,20,Rice
+Kenya,Kisumu,S2023,Sandy,5.8,0.34,1.55,318,19,146,19,Rice
+Kenya,Nairobi,S2024,Loamy,4.3,1.47,0.76,189,26,130,25,Barley
+Australia,New South Wales,S2025,Clayey,7.7,0.19,1.96,346,32,72,21,Rice
+Australia,New South Wales,S2026,Silty,5.6,0.95,1.58,207,11,189,13,Rice
+France,Normandy,S2027,Sandy,4.7,1.45,1.26,130,7,233,44,Cotton
+Brazil,Minas Gerais,S2028,Sandy,4.3,0.34,1.77,267,41,174,39,Cotton
+France,Normandy,S2029,Sandy,4.1,1.38,1.88,253,8,99,25,Rice
+Australia,New South Wales,S2030,Clayey,6.0,1.93,1.37,307,44,125,38,Soybean
+Kenya,Mombasa,S2031,Silty,6.8,1.6,0.41,363,43,75,15,Rice
+Brazil,São Paulo,S2032,Loamy,7.8,0.64,0.85,251,49,219,23,Wheat
+France,Provence,S2033,Loamy,5.4,1.42,0.3,214,24,144,21,Maize
+India,Gujarat,S2034,Clayey,6.4,0.05,1.96,205,40,112,25,Rice
+Australia,Victoria,S2035,Silty,5.5,1.6,0.46,124,10,230,24,Rice
+China,Guangdong,S2036,Silty,6.4,1.5,0.72,223,28,64,11,Cotton
+Australia,New South Wales,S2037,Silty,5.6,0.54,0.81,165,41,140,25,Rice
+USA,California,S2038,Silty,4.8,0.82,1.09,265,7,240,40,Rice
+China,Sichuan,S2039,Loamy,4.8,0.2,1.53,139,42,177,40,Soybean
+China,Sichuan,S2040,Silty,6.3,0.8,1.67,312,23,176,24,Barley
+Brazil,Minas Gerais,S2041,Loamy,5.5,1.85,1.75,199,41,105,17,Sugarcane
+Kenya,Kisumu,S2042,Loamy,5.1,1.79,0.31,171,24,158,21,Maize
+USA,Iowa,S2043,Clayey,7.1,0.8,0.2,105,9,83,32,Barley
+India,Maharashtra,S2044,Peaty,7.5,1.23,0.57,367,11,74,21,Wheat
+China,Sichuan,S2045,Silty,6.2,0.74,1.68,257,13,207,41,Barley
+Australia,New South Wales,S2046,Clayey,6.1,0.89,0.25,278,20,223,32,Wheat
+India,Gujarat,S2047,Loamy,5.3,0.31,1.18,208,7,149,16,Wheat
+China,Sichuan,S2048,Sandy,4.2,1.37,1.04,372,41,76,39,Soybean
+Kenya,Kisumu,S2049,Loamy,6.4,0.15,0.56,356,6,97,12,Cotton
