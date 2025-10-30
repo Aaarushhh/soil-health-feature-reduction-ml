@@ -1,0 +1,26 @@
+🌾 Soil Health Prediction Model Evaluation Report
+================================================
+
+Model Accuracy: 0.90
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         2
+           1       1.00      0.67      0.80         3
+           2       0.00      0.00      0.00         0
+           3       1.00      1.00      1.00         1
+           4       1.00      1.00      1.00         3
+           5       1.00      1.00      1.00         1
+
+    accuracy                           0.90        10
+   macro avg       0.83      0.78      0.80        10
+weighted avg       1.00      0.90      0.94        10
+
+Confusion Matrix:
+[[2 0 0 0 0 0]
+ [0 2 1 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 1 0 0]
+ [0 0 0 0 3 0]
+ [0 0 0 0 0 1]]
